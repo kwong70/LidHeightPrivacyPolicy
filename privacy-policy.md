@@ -5,12 +5,12 @@ LidHeight takes your privacy seriously. To better protect your privacy LidHeight
 
 ## Collection of Routine Information
 
-LidHeight does not require their users to create or have an account to use the application. From this LidHeight gathers little to no information on the user. The little information the application does create is briefly used to calculate the palpebral fissure height of the user and is then displayed on the users screen. Only getting store for no more than a few milliseconds. 
+LidHeight requires access to the camera on users' mobile devices. LidHeight does not require their users to create or have an account to use the application. From this LidHeight gathers no information on the user. The application uses depth-sensing capabilities in the mobile camera to calculate and display the palpebral fissure height and pupillary distance of the user. There are no user accounts. 
 
 
 ## Data Use and Sharing
 
-As previously stated above, LidHeight does not store their users data beyond real time application. In addition, LidHeight does not work with any third party sources whatsoever. This includes distribution of user data for marketing, advertising or use-based data mining, including by third parties. 
+As previously stated above, LidHeight does not store their users data beyond real time application. In addition, LidHeight does not work with any third party sources whatsoever. This includes distribution of user data for marketing, advertising or user-based data mining, including by third parties. No personal data of users is collected or stored. No derivative data is stored or collected. Third party affiliations do no exist in any form; there is no sharing of data in any form.
 
 
 ## Security
@@ -22,4 +22,8 @@ We understand personal information is important to our user base. That is why we
 
 This Privacy Policy is effective as of July 23rd, 2020 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically.
+
+## Contact Us
+
+If you have any questions or comments, please email rbw2217@gmail.com.
 
