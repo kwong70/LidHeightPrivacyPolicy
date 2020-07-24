@@ -5,7 +5,7 @@ LidHeight takes your privacy seriously. To better protect your privacy LidHeight
 
 ## Collection of Routine Information
 
-LidHeight requires access to the camera on users' mobile devices. LidHeight does not require their users to create or have an account to use the application. From this LidHeight gathers no information on the user. The application uses depth-sensing capabilities in the mobile camera to calculate and display the palpebral fissure height and pupillary distance of the user. There are no user accounts. 
+LidHeight requires access to the camera on users' mobile devices. LidHeight does not require their users to create or have an account to use the application. From this, LidHeight gathers no information on the user. The application uses depth-sensing capabilities in the mobile camera to calculate and display the palpebral fissure height and pupillary distance of the user. There are no user accounts. 
 
 
 ## Data Use and Sharing
